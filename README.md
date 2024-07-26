@@ -11,14 +11,16 @@
 #
 <p>Home Screen</p>
 
-![Screenshot 1](img/data1.png)
+![Screenshot 1](Img/data1.png)
 
 #
-![Screenshot 1](img/data2.png)
+<p>Prompt Screen</p>
+
+![Screenshot 1](Img/data2.png)
 
 #
 
-![Screenshot 1](img/data3.png)
+![Screenshot 1](Img/data3.png)
 
 
 
