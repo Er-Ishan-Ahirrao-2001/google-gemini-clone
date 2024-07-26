@@ -8,6 +8,8 @@
 <li>Basics Login Page</li>
 <li>Create Multiple Pages using react router dom</li>
 
+Visit My Site <a href="https://googlegeminiclonesote.netlify.app/" target="_blank">Ishan's GPT</a>
+
 #
 <p>Home Screen</p>
 
