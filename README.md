@@ -8,5 +8,17 @@
 <li>Basics Login Page</li>
 <li>Create Multiple Pages using react router dom</li>
 
+#
+<p>Home Screen</p>
+
+![Screenshot 1](img/data1.png)
+
+#
+![Screenshot 1](img/data2.png)
+
+#
+
+![Screenshot 1](img/data3.png)
+
 
 
