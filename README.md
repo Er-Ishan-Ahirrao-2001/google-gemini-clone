@@ -9,13 +9,13 @@
 <li>Create Multiple Pages using react router dom</li>
 
 #
-![Screenshot 1](Images/image1.png)
+![Screenshot 1](Images/image 1.png)
 
 #
-![Screenshot 1](Images/image2.png)
+![Screenshot 1](Images/image 2.png)
 
 #
-![Screenshot 1](Images/image3.png)
+![Screenshot 1](Images/image 3.png)
 
 #
-![Screenshot 1](Images/image4.png)
+![Screenshot 1](Images/image 4.png)
