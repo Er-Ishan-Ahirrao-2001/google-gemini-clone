@@ -9,13 +9,12 @@
 <li>Create Multiple Pages using react router dom</li>
 
 #
+<p>Home Page contain the prompt where the user type any query.</p>
 ![Screenshot 1](Photos/i1.png)
 
 #
+<p>When the user send the query the Gemini send the response as per the query.</p>
 ![Screenshot 1](Photos/i2.png)
 
-#
 ![Screenshot 1](Photos/i3.png)
 
-#
-![Screenshot 1](Images/image 4.png)
